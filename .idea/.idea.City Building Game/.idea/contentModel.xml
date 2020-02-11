@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\soets\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\soets\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_City Building Game.-1302207607.00" t="ExcludeRecursive" />
+    <e p="C:\Users\soets\Desktop\City Building Game" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Imported Assets" t="Include">
+          <e p="Advanced Save System" t="Include">
+            <e p="Scripts" t="Include">
+              <e p="AdvancedSaveSystem_EncryptDetails.cs" t="Include" />
+              <e p="AdvancedSaveSystem_FileEncryptor.cs" t="Include" />
+              <e p="AdvancedSaveSystem_MessageSystem.cs" t="Include" />
+              <e p="ExampleScripts" t="Include">
+                <e p="ASS_ChangeColor.cs" t="Include" />
+                <e p="ASS_MoveObject.cs" t="Include" />
+                <e p="ASS_SaveExample.cs" t="Include" />
+              </e>
+              <e p="Save GameObjects" t="Include">
+                <e p="AdvancedSaveSystem_LoadGO.cs" t="Include" />
+                <e p="AdvancedSaveSystem_SaveGO.cs" t="Include" />
+                <e p="GameObjectID.cs" t="Include" />
+              </e>
+              <e p="Save Variables" t="Include">
+                <e p="AdvancedSaveSystem.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="JMO Assets" t="Include">
+            <e p="!JMO Assets Readme.txt" t="Include" />
+            <e p="Cartoon FX" t="Include">
+              <e p="CartoonFX Free.txt" t="Include" />
+              <e p="Demo" t="Include">
+                <e p="Assets" t="Include">
+                  <e p="CFX_AutoStopLoopedEffect.cs" t="Include" />
+                  <e p="CFX_Demo_New.cs" t="Include" />
+                  <e p="CFX_Demo_RandomDir.cs" t="Include" />
+                  <e p="CFX_Demo_RandomDirectionTranslate.cs" t="Include" />
+                  <e p="CFX_Demo_RotateCamera.cs" t="Include" />
+                  <e p="CFX_Demo_Translate.cs" t="Include" />
+                </e>
+              </e>
+              <e p="Scripts" t="Include">
+                <e p="CFX_AutoDestructShuriken.cs" t="Include" />
+                <e p="CFX_AutoRotate.cs" t="Include" />
+                <e p="CFX_LightFlicker.cs" t="Include" />
+                <e p="CFX_LightIntensityFade.cs" t="Include" />
+              </e>
+              <e p="Shaders" t="Include">
+                <e p="CFX3 Multiply Color.shader" t="Include" />
+                <e p="CFXM_MobileParticleAdd_Alpha8.shader" t="Include" />
+              </e>
+            </e>
+            <e p="Cartoon FX Easy Editor" t="Include">
+              <e p="CartoonFX Easy Editor Readme.txt" t="Include" />
+              <e p="Editor" t="Include">
+                <e p="CFXEasyEditor.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="MT Assets" t="Include">
+            <e p="Easy Mesh Combiner" t="Include">
+              <e p="Editor" t="Include">
+                <e p="GreetingsEMC.cs" t="Include" />
+                <e p="MenuEMC.cs" t="Include" />
+                <e p="MeshCombinerTool.cs" t="Include" />
+              </e>
+              <e p="List Of Changes.txt" t="Include" />
+              <e p="Scripts" t="Include">
+                <e p="CombinedMeshesManager.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="SaveMe" t="Include">
+            <e p="Exemple" t="Include">
+              <e p="SaveMe_SceneManager_Example.cs" t="Include" />
+            </e>
+            <e p="Prefabs" t="Include">
+              <e p="SaveMe_Manager.cs" t="Include" />
+              <e p="SaveMe_Object.cs" t="Include" />
+            </e>
+            <e p="READ BEFORE USING.txt" t="Include" />
+            <e p="SaveMe" t="Include">
+              <e p="SaveMe_Static.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Simple UI" t="Include">
+            <e p="Fonts" t="Include">
+              <e p="OFL.txt" t="Include" />
+            </e>
+            <e p="Samples" t="Include">
+              <e p="IconPreview.cs" t="Include" />
+            </e>
+          </e>
+          <e p="SimpleGridShader" t="Include">
+            <e p="DistanceScaling.cs" t="Include" />
+            <e p="GridShader.shader" t="Include" />
+            <e p="README.txt" t="Include" />
+          </e>
+        </e>
+        <e p="KongregateAPIBehaviour.cs" t="Include" />
+        <e p="NavMeshComponents-master" t="Include">
+          <e p="Assets" t="Include">
+            <e p="Examples" t="Include">
+              <e p="Editor" t="Include">
+                <e p="NavMeshComponentsExamplesEditor.asmdef" t="Include" />
+                <e p="NavMeshPrefabInstanceEditor.cs" t="Include" />
+              </e>
+              <e p="NavMeshComponentsExamples.asmdef" t="Include" />
+              <e p="Scripts" t="Include">
+                <e p="AgentLinkMover.cs" t="Include" />
+                <e p="ClickToMove.cs" t="Include" />
+                <e p="DestroyOnTrigger.cs" t="Include" />
+                <e p="DungeonManager.cs" t="Include" />
+                <e p="EnableIffSleeping.cs" t="Include" />
+                <e p="FreeCam.cs" t="Include" />
+                <e p="LocalNavMeshBuilder.cs" t="Include" />
+                <e p="MeshTool.cs" t="Include" />
+                <e p="NavMeshPrefabInstance.cs" t="Include" />
+                <e p="NavMeshSourceTag.cs" t="Include" />
+                <e p="Oscillator.cs" t="Include" />
+                <e p="RandomInstancing.cs" t="Include" />
+                <e p="RandomWalk.cs" t="Include" />
+                <e p="SpawnPrefabOnKeyDown.cs" t="Include" />
+              </e>
+            </e>
+            <e p="NavMeshComponents" t="Include">
+              <e p="Editor" t="Include">
+                <e p="NavMeshAssetManager.cs" t="Include" />
+                <e p="NavMeshComponentsEditor.asmdef" t="Include" />
+                <e p="NavMeshComponentsGUIUtility.cs" t="Include" />
+                <e p="NavMeshLinkEditor.cs" t="Include" />
+                <e p="NavMeshModifierEditor.cs" t="Include" />
+                <e p="NavMeshModifierVolumeEditor.cs" t="Include" />
+                <e p="NavMeshSurfaceEditor.cs" t="Include" />
+              </e>
+              <e p="Scripts" t="Include">
+                <e p="NavMeshComponents.asmdef" t="Include" />
+                <e p="NavMeshLink.cs" t="Include" />
+                <e p="NavMeshModifier.cs" t="Include" />
+                <e p="NavMeshModifierVolume.cs" t="Include" />
+                <e p="NavMeshSurface.cs" t="Include" />
+              </e>
+            </e>
+            <e p="Tests" t="Include">
+              <e p="Editor" t="Include">
+                <e p="NavMeshComponentsTestsEditmode.asmdef" t="Include" />
+                <e p="NavMeshModifierVolumeInPrefabTests.cs" t="Include" />
+                <e p="NavMeshSurfaceInPrefabTests.cs" t="Include" />
+                <e p="NavMeshSurfaceInPrefabVariantTests.cs" t="Include" />
+                <e p="PrefabSavingUtil.cs" t="Include" />
+                <e p="PrefabStageAutoSavingUtil.cs" t="Include" />
+              </e>
+              <e p="NavMeshComponentsTestsPlaymode.asmdef" t="Include" />
+              <e p="NavMeshSurfaceAgentTests.cs" t="Include" />
+              <e p="NavMeshSurfaceLinkTests.cs" t="Include" />
+              <e p="NavMeshSurfaceModifierTests.cs" t="Include" />
+              <e p="NavMeshSurfaceModifierVolumeTests.cs" t="Include" />
+              <e p="NavMeshSurfaceTests.cs" t="Include" />
+            </e>
+          </e>
+          <e p="ProjectSettings" t="Include">
+            <e p="ProjectVersion.txt" t="Include" />
+          </e>
+        </e>
+        <e p="PSD Logo Templates" t="Include">
+          <e p="Fonts" t="Include">
+            <e p="Baloo" t="Include">
+              <e p="OFL.txt" t="Include" />
+            </e>
+            <e p="Changa_One" t="Include">
+              <e p="OFL.txt" t="Include" />
+            </e>
+            <e p="Lilita_One" t="Include">
+              <e p="OFL.txt" t="Include" />
+            </e>
+            <e p="Passion_One" t="Include">
+              <e p="OFL.txt" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Resources" t="Include">
+          <e p="TSF.shader" t="Include" />
+          <e p="TSFOutline.shader" t="Include" />
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="AgentColorController.cs" t="Include" />
+          <e p="AgentJobController.cs" t="Include" />
+          <e p="AgentMovementSpeed.cs" t="Include" />
+          <e p="AnimatorKeeper.cs" t="Include" />
+          <e p="AutoSave.cs" t="Include" />
+          <e p="Board.cs" t="Include" />
+          <e p="Building.cs" t="Include" />
+          <e p="BuildingController.cs" t="Include" />
+          <e p="CameraController.cs" t="Include" />
+          <e p="City.cs" t="Include" />
+          <e p="Inventory.cs" t="Include" />
+          <e p="LevelConstants.cs" t="Include" />
+          <e p="LevelController.cs" t="Include" />
+          <e p="LoadLevel.cs" t="Include" />
+          <e p="ObjectRotation.cs" t="Include" />
+          <e p="POKIGameplayStart.cs" t="Include" />
+          <e p="POKISDKController.cs" t="Include" />
+          <e p="POKISDKInitializer.cs" t="Include" />
+          <e p="PokiUnitySDK.cs" t="Include" />
+          <e p="Pool Scripts" t="Include">
+            <e p="Forest" t="Include">
+              <e p="CreateParticleForestPooled.cs" t="Include" />
+              <e p="DestroyParticleForestPooled.cs" t="Include" />
+              <e p="ParticleCreateForestPool.cs" t="Include" />
+              <e p="ParticleDestroyForestPool.cs" t="Include" />
+            </e>
+            <e p="GenericObjectPool.cs" t="Include" />
+            <e p="House Pool" t="Include">
+              <e p="CreateParticlePooled.cs" t="Include" />
+              <e p="DestroyParticlePooled.cs" t="Include" />
+              <e p="ParticleCreatePool.cs" t="Include" />
+              <e p="ParticleDestroyPool.cs" t="Include" />
+            </e>
+            <e p="Monument Pool" t="Include">
+              <e p="CreateParticleMonumentPooled.cs" t="Include" />
+              <e p="DestroyParticleMonumentPooled.cs" t="Include" />
+              <e p="ParticleCreateMonumentPool.cs" t="Include" />
+              <e p="ParticleDestroyMonumentPool.cs" t="Include" />
+            </e>
+            <e p="Office Pool" t="Include">
+              <e p="CreateParticleOfficePooled.cs" t="Include" />
+              <e p="DestroyParticleOfficePooled.cs" t="Include" />
+              <e p="ParticleCreateOfficePool.cs" t="Include" />
+              <e p="ParticleDestroyOfficePool.cs" t="Include" />
+            </e>
+            <e p="Road Pool" t="Include">
+              <e p="DestroyParticleRoadPooled.cs" t="Include" />
+              <e p="ParticleCreateRoadPool.cs" t="Include" />
+              <e p="ParticleDestroyRoadPool.cs" t="Include" />
+              <e p="RoadCreateParticlePooled.cs" t="Include" />
+            </e>
+            <e p="Water Pool" t="Include">
+              <e p="CreateParticleWaterPooled.cs" t="Include" />
+              <e p="DestroyParticleWaterPooled.cs" t="Include" />
+              <e p="ParticleCreateWaterPool.cs" t="Include" />
+              <e p="ParticleDestroyWaterPool.cs" t="Include" />
+            </e>
+          </e>
+          <e p="ResetSave.cs" t="Include" />
+          <e p="SavedState.cs" t="Include" />
+          <e p="ShaderFinder.cs" t="Include" />
+          <e p="SoundController.cs" t="Include" />
+          <e p="TimeScaleController.cs" t="Include" />
+          <e p="Tutorial Scripts" t="Include">
+            <e p="Tutorial.cs" t="Include" />
+            <e p="Tutorial2.cs" t="Include" />
+            <e p="Tutorial3.cs" t="Include" />
+            <e p="Tutorial4.cs" t="Include" />
+          </e>
+          <e p="UIController.cs" t="Include" />
+          <e p="VolumeKeeper.cs" t="Include" />
+        </e>
+        <e p="TextMesh Pro" t="Include">
+          <e p="Resources" t="Include">
+            <e p="LineBreaking Following Characters.txt" t="Include" />
+            <e p="LineBreaking Leading Characters.txt" t="Include" />
+            <e p="Shaders" t="Include">
+              <e p="TMP_Bitmap-Custom-Atlas.shader" t="Include" />
+              <e p="TMP_Bitmap-Mobile.shader" t="Include" />
+              <e p="TMP_Bitmap.shader" t="Include" />
+              <e p="TMP_SDF Overlay.shader" t="Include" />
+              <e p="TMP_SDF-Mobile Masking.shader" t="Include" />
+              <e p="TMP_SDF-Mobile Overlay.shader" t="Include" />
+              <e p="TMP_SDF-Mobile.shader" t="Include" />
+              <e p="TMP_SDF-Surface-Mobile.shader" t="Include" />
+              <e p="TMP_SDF-Surface.shader" t="Include" />
+              <e p="TMP_SDF.shader" t="Include" />
+              <e p="TMP_Sprite.shader" t="Include" />
+              <e p="TMPro.cginc" t="Include" />
+              <e p="TMPro_Properties.cginc" t="Include" />
+              <e p="TMPro_Surface.cginc" t="Include" />
+            </e>
+          </e>
+          <e p="Sprites" t="Include">
+            <e p="EmojiOne Attribution.txt" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="City Building Game.sln" t="IncludeFlat" />
+      <e p="NavMeshComponents.csproj" t="IncludeRecursive" />
+      <e p="NavMeshComponentsEditor.csproj" t="IncludeRecursive" />
+      <e p="NavMeshComponentsExamples.csproj" t="IncludeRecursive" />
+      <e p="NavMeshComponentsExamplesEditor.csproj" t="IncludeRecursive" />
+      <e p="NavMeshComponentsTestsEditmode.csproj" t="IncludeRecursive" />
+      <e p="NavMeshComponentsTestsPlaymode.csproj" t="IncludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

@@ -1,0 +1,25 @@
+
+/////////////////////
+	  MT ASSETS
+	  CHANGELOG
+/////////////////////
+
+v1.2
+	- A lot of minor improvements.
+	- Fix small bugs.
+v1.1
+	- Do not worry about duplicates when saving the meshes combined in your project file!
+	- If you have saved the merge files in your project files, and you want to undo the merge,
+	  all unnecessary files are also deleted from your project. So you do not worry about memory problems!
+	- The combined mesh manager now shows you a warning if it detects that one of the meshes combined
+	  does not have any important files.
+	- The documentation has been contemplated with the new details!
+v1.0
+	- The Easy Mesh Combiner has just been released! I will always be working to support and add new features!
+	  Do you have any suggestions, Bug reports or any problems with using this asset? Contact by email!
+	  (mtassets@windsoft.xyz)
+
+/////////////////////
+  Email for support
+mtassets@windsoft.xyz
+/////////////////////

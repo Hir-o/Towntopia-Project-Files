@@ -1,0 +1,389 @@
+fileFormatVersion: 2
+guid: 1e4b37dee538fa643a1b61b19e1ff33c
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Banana_tree
+    100002: Birch_A
+    100004: Birch_B
+    100006: Birch_C
+    100008: Broad_leaved_trees_A
+    100010: Broad_leaved_trees_B
+    100012: Broad_leaved_trees_C
+    100014: Bush_A
+    100016: Bush_B
+    100018: Bush_C
+    100020: Cactus_A
+    100022: Cactus_B
+    100024: Cactus_C
+    100026: Cactus_D
+    100028: Coconut_tree
+    100030: Fortress
+    100032: Gate
+    100034: Hill_A
+    100036: Hill_B
+    100038: Hill_C
+    100040: Hill_D
+    100042: Hill_E
+    100044: Land_A
+    100046: Land_B
+    100048: Land_C
+    100050: Land_D
+    100052: Land_E
+    100054: Palm_tree
+    100056: Platform
+    100058: //RootNode
+    100060: Spruce_A
+    100062: Spruce_B
+    100064: Spruce_C
+    100066: Temple
+    100068: Tower
+    400000: Banana_tree
+    400002: Birch_A
+    400004: Birch_B
+    400006: Birch_C
+    400008: Broad_leaved_trees_A
+    400010: Broad_leaved_trees_B
+    400012: Broad_leaved_trees_C
+    400014: Bush_A
+    400016: Bush_B
+    400018: Bush_C
+    400020: Cactus_A
+    400022: Cactus_B
+    400024: Cactus_C
+    400026: Cactus_D
+    400028: Coconut_tree
+    400030: Fortress
+    400032: Gate
+    400034: Hill_A
+    400036: Hill_B
+    400038: Hill_C
+    400040: Hill_D
+    400042: Hill_E
+    400044: Land_A
+    400046: Land_B
+    400048: Land_C
+    400050: Land_D
+    400052: Land_E
+    400054: Palm_tree
+    400056: Platform
+    400058: //RootNode
+    400060: Spruce_A
+    400062: Spruce_B
+    400064: Spruce_C
+    400066: Temple
+    400068: Tower
+    2300000: Banana_tree
+    2300002: Birch_A
+    2300004: Birch_B
+    2300006: Birch_C
+    2300008: Broad_leaved_trees_A
+    2300010: Broad_leaved_trees_B
+    2300012: Broad_leaved_trees_C
+    2300014: Bush_A
+    2300016: Bush_B
+    2300018: Bush_C
+    2300020: Cactus_A
+    2300022: Cactus_B
+    2300024: Cactus_C
+    2300026: Cactus_D
+    2300028: Coconut_tree
+    2300030: Fortress
+    2300032: Gate
+    2300034: Hill_A
+    2300036: Hill_B
+    2300038: Hill_C
+    2300040: Hill_D
+    2300042: Hill_E
+    2300044: Land_A
+    2300046: Land_B
+    2300048: Land_C
+    2300050: Land_D
+    2300052: Land_E
+    2300054: Palm_tree
+    2300056: Platform
+    2300058: Spruce_A
+    2300060: Spruce_B
+    2300062: Spruce_C
+    2300064: Temple
+    2300066: Tower
+    3300000: Banana_tree
+    3300002: Birch_A
+    3300004: Birch_B
+    3300006: Birch_C
+    3300008: Broad_leaved_trees_A
+    3300010: Broad_leaved_trees_B
+    3300012: Broad_leaved_trees_C
+    3300014: Bush_A
+    3300016: Bush_B
+    3300018: Bush_C
+    3300020: Cactus_A
+    3300022: Cactus_B
+    3300024: Cactus_C
+    3300026: Cactus_D
+    3300028: Coconut_tree
+    3300030: Fortress
+    3300032: Gate
+    3300034: Hill_A
+    3300036: Hill_B
+    3300038: Hill_C
+    3300040: Hill_D
+    3300042: Hill_E
+    3300044: Land_A
+    3300046: Land_B
+    3300048: Land_C
+    3300050: Land_D
+    3300052: Land_E
+    3300054: Palm_tree
+    3300056: Platform
+    3300058: Spruce_A
+    3300060: Spruce_B
+    3300062: Spruce_C
+    3300064: Temple
+    3300066: Tower
+    4300000: Bush_A
+    4300002: Bush_B
+    4300004: Bush_C
+    4300006: Land_A
+    4300008: Land_B
+    4300010: Land_C
+    4300012: Land_D
+    4300014: Land_E
+    4300016: Hill_A
+    4300018: Hill_B
+    4300020: Hill_C
+    4300022: Hill_D
+    4300024: Hill_E
+    4300026: Cactus_A
+    4300028: Cactus_B
+    4300030: Cactus_C
+    4300032: Cactus_D
+    4300034: Banana_tree
+    4300036: Palm_tree
+    4300038: Coconut_tree
+    4300040: Spruce_A
+    4300042: Spruce_B
+    4300044: Spruce_C
+    4300046: Broad_leaved_trees_A
+    4300048: Broad_leaved_trees_B
+    4300050: Broad_leaved_trees_C
+    4300052: Birch_A
+    4300054: Birch_B
+    4300056: Birch_C
+    4300058: Fortress
+    4300060: Platform
+    4300062: Tower
+    4300064: Temple
+    4300066: Gate
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 5539b789eaf22df40a2e2142ef5ae082, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Scene_1
+    second: {fileID: 2100000, guid: 941b76034d8a3c049991836aa8eea801, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Scene_10
+    second: {fileID: 2100000, guid: 3f29d43a10869764a8649a168a5eda2b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Scene_11
+    second: {fileID: 2100000, guid: 7af4bf80a1edf4c44bef55da224cf57b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Scene_12
+    second: {fileID: 2100000, guid: 1ca432c34cac5004db85af3b1be69ac6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Scene_13
+    second: {fileID: 2100000, guid: 9461cca9002494a49989a061c230c340, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Scene_14
+    second: {fileID: 2100000, guid: 2903143b5cce69d4586c28b541c4d4be, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Scene_15
+    second: {fileID: 2100000, guid: 6dfeed2feddbdcd408a20960eb8956f9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Scene_16
+    second: {fileID: 2100000, guid: 52d35594001cc93438cda6efc6cdf39b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Scene_17
+    second: {fileID: 2100000, guid: a07148957dcedfd42af7bca931ce111c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Scene_18
+    second: {fileID: 2100000, guid: 094e13c647e2f874f80f5e8df5851ac8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Scene_19
+    second: {fileID: 2100000, guid: b606363e04e0b7b4aac90733aececa55, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Scene_2
+    second: {fileID: 2100000, guid: aceb05d6915b83f4dacd963bd3bcef1f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Scene_20
+    second: {fileID: 2100000, guid: 1c8cf2062abbdb94e84de47b577b0551, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Scene_21
+    second: {fileID: 2100000, guid: 77252256de420ab4db4ae99516b76b93, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Scene_22
+    second: {fileID: 2100000, guid: 5d3c2666962c3204cbb55b372cb0706d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Scene_23
+    second: {fileID: 2100000, guid: 61d617898efcbcd4f9686ce66af2543a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Scene_24
+    second: {fileID: 2100000, guid: 3059e10fb5042c344ad5680c170ac84b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Scene_3
+    second: {fileID: 2100000, guid: cd8e845c99834e241a77d885e18ba9f0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Scene_4
+    second: {fileID: 2100000, guid: 30b6cc628d5f4e747aceab71a6d95227, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Scene_5
+    second: {fileID: 2100000, guid: 7ac3c11aa3427d34b8e2d859e1b50421, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Scene_6
+    second: {fileID: 2100000, guid: 0cd2115390af2fa499db93977f77cc63, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Scene_7
+    second: {fileID: 2100000, guid: 9c97e1e22445fec4091f49c24f7784ea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Scene_8
+    second: {fileID: 2100000, guid: 28ff5a55bcacae443818d38ab24b5715, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Scene_9
+    second: {fileID: 2100000, guid: 13d0f419721e459489ae58e7667f8cb7, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 0
+    normalImportMode: 0
+    tangentImportMode: 0
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
